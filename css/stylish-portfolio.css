@@ -373,3 +373,5 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.material-icons.md-36 { font-size: 36px; }
